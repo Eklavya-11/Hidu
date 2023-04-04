@@ -1,0 +1,3 @@
+googlesearch-python==2021.0.2
+colorama==0.4.4
+requests==2.27.1
