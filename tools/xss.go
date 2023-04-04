@@ -1,6 +1,6 @@
 // Maybe another repo
 
-package main
+package xss
 
 import (
         "bufio"
